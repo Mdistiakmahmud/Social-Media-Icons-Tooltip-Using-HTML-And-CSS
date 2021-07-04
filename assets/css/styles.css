@@ -4,8 +4,8 @@
 /*===== VARIABLES CSS =====*/
 :root{
   /*========== Colors ==========*/
-  --first-color: #322FF2;
-  --first-color-light: #E3E2FD;
+  --first-color: #f22f2f;
+  --first-color-light: #f9fffa;
   --body-color: #FAFAFF;
 
   /*========== Font and typography ==========*/
@@ -49,7 +49,7 @@ body{
 }
 
 .social__icon{
-  font-size: 2rem;
+  font-size: 3rem;
   color: var(--first-color);
 }
 
